@@ -56,3 +56,5 @@ The fundamentals of structured problem-solving using C++ programming are taught,
     </tr>
   </tbody>
 </table>
+
+The course has provided a solid foundation in programming concepts, from basic problem-solving techniques to more advanced topics like pointers and structured data types. Understanding control structures, arrays, and dynamic memory allocation has sharpened my programming approach, bridging theory and practice. Some suggestions I would make for this subject are making more activities in groups since most of the time the lectures are individual.
